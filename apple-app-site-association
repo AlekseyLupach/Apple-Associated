@@ -1,0 +1,18 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "YOUR_PRODUCTION_TEAM_ID.com.yourapp_bundleID",
+                    "YOUR_DEV_TEAM_ID.com.yourapp_bundleID.dev"
+                ],
+                "components": [
+                    {
+                        "/": "*",
+                        "comment": "Matches any URLs"
+                    }
+                ]
+            }
+        ]
+    }
+}
